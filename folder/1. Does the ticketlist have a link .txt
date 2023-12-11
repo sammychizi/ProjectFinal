@@ -1,0 +1,2 @@
+1. Does the ticketlist have a link to the database such that the whole component can be copied for the reviewer
+ and changed to sort the reviewer??
